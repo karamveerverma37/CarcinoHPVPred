@@ -1,2 +1,2 @@
 # CarcinoHPVPred
-Will be updated after publication acceptance.
+Source code available on download page of web server. Will be updated here soon.
