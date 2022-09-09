@@ -6,6 +6,7 @@
 
 ## Dependencies:
 
+- [Prokka](http://test5.bicpu.edu.in/prokka.zip)
 - perl-5
 - python-3.9.9
 - sklearn: 1.0.2
