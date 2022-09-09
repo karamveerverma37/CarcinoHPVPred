@@ -1,7 +1,7 @@
 # CarcinoHPVPred
 
 - This tool can be used to predict the carcinogenic nature of new or already available HPV strains. This tool uses genomic information from two HPV core genes E2 and E6.
-- It is an ensemle of simple machine learning models such as logistic regression, Support vector machine and kNN. 
+- Genomic composition information integrated into ensemle of simple machine learning models such as logistic regression, Support vector machine and kNN. 
 - Standalone version of CarcinoHPVPred is consist of scripts and models written and tested with perl-5 and python-3.9.9.
 - CarcinoHPVPred also available as web-server at [http://test5.bicpu.edu.in/CarcinoHPVPred.php](http://test5.bicpu.edu.in/CarcinoHPVPred.php). The stand alone version works with linux OS only.
 
