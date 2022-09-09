@@ -17,16 +17,16 @@
 
 ## Installation:
 
-unzip CarcinoHPVPred.zip
+`unzip CarcinoHPVPred.zip`
 
 To run program simply type:
 
-cd CarcinoHPVPred/
+`cd CarcinoHPVPred/`
 
-perl CarcinoHPVPred.pl abc.fasta modelName type_of_input
+`perl CarcinoHPVPred.pl abc.fasta modelName type_of_input`
 
-abc.fasta = genome or predicted genes in fasta format
+abc.fasta => genome or predicted genes in fasta format
 
-modelName = logistic_regression or svm or knn or lda
+modelName => logistic_regression or svm or knn or lda
 
-type_of_input = full_genome or E2_E6 or E6
+type_of_input => full_genome or E2_E6 or E6
