@@ -23,7 +23,9 @@
 - Unzip the zip file 
 `unzip CarcinoHPVPred.zip`
 
-- Download and [prokka](http://test5.bicpu.edu.in/prokka.zip) 
+- Download and unzip [prokka](http://test5.bicpu.edu.in/prokka.zip) 
+ `unzip prokka.zip`
+ 
 - Copy prokka directory into CarcinoHPVPred directory
 
 To run program simply type:
